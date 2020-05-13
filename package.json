@@ -1,0 +1,39 @@
+{
+  "name": "calcTest2",
+  "version": "1.0.0",
+  "description": "npm i --save-dev @babel/core @babel/preset-env @babel/preset-react babel-loader clean-webpack-plugin html-webpack-plugin prop-types react react-dom react-hot-loader react-redux redux redux-devtools webpack webpack-cli",
+  "main": "myStar.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smillepack/webpackReactRedux.git"
+  },
+  "keywords": [],
+  "author": "Alexandr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smillepack/webpackReactRedux/issues"
+  },
+  "homepage": "https://github.com/smillepack/webpackReactRedux#readme",
+  "devDependencies": {
+    "@babel/core": "^7.9.6",
+    "@babel/preset-env": "^7.9.6",
+    "@babel/preset-react": "^7.9.4",
+    "babel-loader": "^8.1.0",
+    "clean-webpack-plugin": "^3.0.0",
+    "css-loader": "^3.5.3",
+    "html-webpack-plugin": "^4.2.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-hot-loader": "^4.12.21",
+    "react-redux": "^7.2.0",
+    "redux": "^4.0.5",
+    "redux-devtools": "^3.5.0",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
